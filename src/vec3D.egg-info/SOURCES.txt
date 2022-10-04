@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/vec3D.py
+src/vec3D.egg-info/PKG-INFO
+src/vec3D.egg-info/SOURCES.txt
+src/vec3D.egg-info/dependency_links.txt
+src/vec3D.egg-info/top_level.txt
