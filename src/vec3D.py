@@ -3,13 +3,11 @@ import math
 
 class vec3D:
 
-    n=0 #number of created vec3D
-
     def __init__(self,i=0.0,j=0.0,k=0.0):
         self.i=float(i)
         self.j=float(j)
         self.k=float(k)
-        vec3D.n+=1
+     
 
     def __len__(self):
         return 3-[self.i,self.j,self.k].count(0.0)
